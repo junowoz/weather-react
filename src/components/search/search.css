@@ -1,0 +1,15 @@
+.search {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 700px;
+}
+
+@media screen and (max-width: 750px) {
+    .search {
+        margin: 25px 25px;
+        width: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+}
